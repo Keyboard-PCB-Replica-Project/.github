@@ -13,7 +13,20 @@
 각기 다른 스타일의 디자인과 각기 다른 MCU들, 또 서로 피드백을 주고받으며 발전하다 보면
 멋진 공간이 될 수 있을 것 같습니다.
 
+This project is dedicated to recreating and replicating commercially available keyboard PCBs.
+We'll be uploading working PCBs, outlines, and even just reference photos — whatever we can gather.
 
+Sometimes a beloved keyboard becomes unusable because its PCB is damaged beyond repair.
+Sometimes we simply want a better-performing PCB, or one with more modern features.
+This space is meant to be a hopeful archive — a place to search for what you need, or even what doesn’t exist yet.
+
+All PCBs are intended to be released as open source.
+However, in some cases, the availability may depend on the creator’s preferences — while the source code might not always be public, the design files will always be accessible for use.
+
+While I’m starting this alone, I hope others will eventually join.
+With diverse design styles, different MCUs, and shared feedback, I believe this space can grow into something truly special.
+
+## Upload Format
 
 <!--
 
