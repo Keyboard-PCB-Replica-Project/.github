@@ -27,7 +27,60 @@ While I’m starting this alone, I hope others will eventually join.
 With diverse design styles, different MCUs, and shared feedback, I believe this space can grow into something truly special.
 
 ## Upload Format
+업로드 포멧은 정확히 정해져있지는 않지만, 필수적인 포함 사항은 다음과 같아요 :
 
+1. 기판의 거버(Gerber)와 POS,CPL 파일
+이 프로젝트는 필요한 사람들이 기판을 직접 뽑아서 쓸 수 있게 하는 것이 궁극적인 목표이기 때문에, 설계 소스를 공유하지 않더라도 거버는 꼭 올라와 있어야 해요.
+
+2. 기판의 실물 사진/설계 프로그램에서의 렌더링 사진
+지금 찾아온 기판이 내가 원하는 기판이 맞는지 확인하려면 알아볼 수 있는 사진이 있어야겠죠? 안심하고 기판을 주문하려면, 확인할 수 있는 사진이나 그림이 있어야 할 거예요.
+
+3. 펌웨어 및 VIA json 파일
+기판을 직접 짜는 입장에서는 설계만 봐도 QMK로 펌웨어를 만들 수 있겠지만 그렇지 않은 경우도 많겠죠? 꼭 넣어줘야 해요
+
+4. 기판 검증 유무
+꽤나 중요한 포인트예요. 설계가 언제든지 잘못될 수 있기 때문에, 이게 정상작동하는 기판이 맞는지, 이슈는 없는지, 아직 작동 확인을 못헀다든지 하는건 확인해줘야 해요.
+신뢰도있는 프로젝트가 되려면 솔직하게 적어두는 것이 좋겠네요.
+
+There isn’t a strict upload format, but the following items are considered essential:
+
+1. Gerber, POS, and CPL files
+Since the goal of this project is to allow anyone to manufacture and use the PCB themselves, it's absolutely necessary to include the production files — even if you choose not to share the full design sources.
+At minimum, the Gerber files and pick-and-place (POS, CPL) files should be provided.
+
+2. Photos or render images of the PCB
+It’s important to visually confirm that the board matches what someone is looking for.
+Whether it’s a real photo or a render from your design tool, please include at least one clear image.
+This helps others feel confident before ordering or using the board.
+
+3. Firmware and VIA .json files
+While some users may be able to build firmware just by looking at the PCB design, many others can’t.
+Please include any relevant QMK firmware and VIA .json files to make the board easy to use and set up.
+
+4. Verification status
+This is a very important part.
+Designs can always have mistakes, so let others know the current status:
+
+Is the board tested and working?
+
+Are there known issues?
+
+Has it not been tested yet?
+
+Being transparent helps build trust and makes the project more reliable for everyone.
+
+## Just a few words to end with:
+이 프로젝트는 인원이 많으면 많을수록 좋은 프로젝트가 되겠지만, 결국 오픈소스에 무급으로 진행되기 때문에 많은 사람이 모이기 어려워요.
+그렇기 때문에, 기판 작성을 취미로 가지고 있고, 가끔씩이라도 내 기판을 올려볼 생각이 있다 싶으신 분들이 계신다면 메일로 편하게 말씀 주세요.
+언제나 누구든 환영합니다.
+편하게 hjging826@gmail.com로 연락 주시면 됩니다. :)
+
+This project would be even better with more people involved — but since it's open-source and entirely unpaid, it’s naturally difficult to gather a large number of contributors.
+That said, if designing PCBs is something you enjoy as a hobby, and you’ve ever thought about sharing one of your own boards, even just once in a while — I’d love to hear from you.
+Feel free to reach out by email at any time.
+Everyone is always welcome, no matter your background or experience.
+
+Feel free to reach out at hjging826@gmail.com — anytime.
 <!--
 
 **Here are some ideas to get you started:**
