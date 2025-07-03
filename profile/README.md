@@ -71,13 +71,19 @@ Being transparent helps build trust and makes the project more reliable for ever
 
 ## Just a few words to end with:
 이 프로젝트는 인원이 많으면 많을수록 좋은 프로젝트가 되겠지만, 결국 오픈소스에 무급으로 진행되기 때문에 많은 사람이 모이기 어려워요.
+
 그렇기 때문에, 기판 작성을 취미로 가지고 있고, 가끔씩이라도 내 기판을 올려볼 생각이 있다 싶으신 분들이 계신다면 메일로 편하게 말씀 주세요.
+
 언제나 누구든 환영합니다.
+
 편하게 hjging826@gmail.com로 연락 주시면 됩니다. :)
 
 This project would be even better with more people involved — but since it's open-source and entirely unpaid, it’s naturally difficult to gather a large number of contributors.
+
 That said, if designing PCBs is something you enjoy as a hobby, and you’ve ever thought about sharing one of your own boards, even just once in a while — I’d love to hear from you.
+
 Feel free to reach out by email at any time.
+
 Everyone is always welcome, no matter your background or experience.
 
 Feel free to reach out at hjging826@gmail.com — anytime.
