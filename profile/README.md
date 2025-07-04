@@ -76,7 +76,7 @@ Being transparent helps build trust and makes the project more reliable for ever
 
 언제나 누구든 환영합니다.
 
-편하게 hjging826@gmail.com로 연락 주시면 됩니다. :)
+멤버 요청, 기판 신청 등은 편하게 hjging826@gmail.com로 연락 주시면 됩니다. :)
 
 This project would be even better with more people involved — but since it's open-source and entirely unpaid, it’s naturally difficult to gather a large number of contributors.
 
@@ -86,7 +86,7 @@ Feel free to reach out by email at any time.
 
 Everyone is always welcome, no matter your background or experience.
 
-Feel free to reach out at hjging826@gmail.com — anytime.
+If you’d like to join the team or submit a PCB, feel free to reach out at hjging826@gmail.com — anytime.
 <!--
 
 **Here are some ideas to get you started:**
